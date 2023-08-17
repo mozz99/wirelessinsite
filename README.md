@@ -1,6 +1,6 @@
 # wirelessinsite
 
-#<bold>Arquivos para uso no wi:</bold>
+<bold>Arquivos para uso no wi:</bold>
 
 *arquivos .dwg
 
