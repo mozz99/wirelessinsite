@@ -1,0 +1,212 @@
+Format type:keyword version: 1.1.0
+begin_<project> Untitled Project
+project_id 30482
+begin_<globals> 
+longitude 0
+latitude 0
+end_<globals>
+FirstAvailableUnknownLayoutNumber 0
+FirstAvailableStudyAreaNumber 0
+begin_<caches> 
+end_<caches>
+begin_<feature> 
+feature 0
+floorplan
+active
+filename ./newFlp(2).flp
+end_<feature>
+begin_<feature> 
+feature 1
+object
+active
+filename ./cilindro.object
+end_<feature>
+begin_<feature> 
+feature 2
+object
+active
+filename ./cilindro(2).object
+end_<feature>
+begin_<feature> 
+feature 3
+object
+active
+filename banco.object
+end_<feature>
+begin_<feature> 
+feature 4
+object
+active
+filename banco(2).object
+end_<feature>
+begin_<feature> 
+feature 5
+object
+active
+filename banco(3).object
+end_<feature>
+begin_<feature> 
+feature 6
+object
+active
+filename cilindro(3).object
+end_<feature>
+begin_<feature> 
+feature 7
+object
+active
+filename cilindro(3)(2).object
+end_<feature>
+begin_<feature> 
+feature 8
+object
+active
+filename cilindro(3)(2)(2).object
+end_<feature>
+begin_<feature> 
+feature 9
+object
+active
+filename escada.object
+end_<feature>
+begin_<feature> 
+feature 10
+object
+active
+filename planta.object
+end_<feature>
+begin_<feature> 
+feature 11
+object
+active
+filename planta(2).object
+end_<feature>
+begin_<feature> 
+feature 12
+object
+active
+filename planta(2)(2).object
+end_<feature>
+FirstAvailableCommSystemNumber 0
+FirstAvailableFilterNumber 0
+begin_<image> Untitled Image
+begin_<tiff> Untitled Image
+filename ./hallaeroporto.tif
+extents 0 0 1907 825
+visible 0
+utmmode 0
+northing 0
+easting 0
+pixelx 0.1944
+pixely -0.1944
+ellipsoid 23
+end_<tiff>
+end_<image>
+begin_<image> Untitled Image
+begin_<tiff> Untitled Image
+filename ./hallaeroporto.tif
+extents 0 0 1907 825
+visible 0
+utmmode 0
+northing 0
+easting 0
+pixelx 0.19444
+pixely -0.19444
+ellipsoid 23
+end_<tiff>
+end_<image>
+begin_<image> Untitled Image
+begin_<tiff> Untitled Image
+filename ./hallaeroporto.tif
+extents 0 0 1907 825
+visible 0
+utmmode 0
+northing 0
+easting 0
+pixelx 0.19444
+pixely -0.19444
+ellipsoid 23
+end_<tiff>
+end_<image>
+begin_<image> Untitled Image
+begin_<tiff> Untitled Image
+filename ./hallaeroporto.tif
+extents 0 0 1907 825
+visible 1
+utmmode 0
+northing 0
+easting 0
+pixelx 0.19444
+pixely -0.19444
+ellipsoid 23
+end_<tiff>
+end_<image>
+begin_<image> Untitled Image
+begin_<tiff> Untitled Image
+filename ./hallaeroporto.tif
+extents 0 0 1907 825
+visible 1
+utmmode 0
+northing 0
+easting 0
+pixelx 0.19444
+pixely -0.19444
+ellipsoid 23
+end_<tiff>
+end_<image>
+begin_<requests> 
+cartesian
+sealevel
+local
+CalculationMode New
+MaxRenderedPaths 25
+FieldAnimationIncrement 10
+FieldAnimationTimeAveraged yes
+CEF no
+ComplexImpulseResponse no
+DelaySpread no
+FieldAnimation no
+DirectionOfArrival no
+DirectionOfDeparture no
+ElectricFieldVsFrequency no
+ElectricFieldVsTime no
+EMFields no
+FSPathloss no
+FSPower no
+InputData no
+MeanDirectionOfArrival no
+MeanDirectionOfDeparture no
+MeanTimeOfArrival no
+Pathloss no
+Paths no
+Power no
+PowerDelayProfile no
+TimeOfArrival no
+XPathloss no
+TerrainProfile no
+end_<requests>
+begin_<Scales> 
+begin_<MpeThreshhold> 
+AutoScaling 0
+DrawValues 0
+AutoUpdating 0
+Discrete 1
+UseGlobalOpacity 1
+ManualValuesSet 1
+ClampedHigh 1
+ClampedLow 1
+Alpha 1.000000e+00
+ManualMin 0.000000e+00
+ManualMax 2.000000e+02
+TextColor 1.000000 1.000000 1.000000
+Colors 4
+0.300000 0.000000 0.500000
+0.000000 1.000000 0.000000
+1.000000 1.000000 0.000000
+1.000000 0.000000 0.000000
+PartitionValues 
+3
+0.001000 50.000000 100.000000 
+end_<MpeThreshhold>
+end_<Scales>
+end_<project>
