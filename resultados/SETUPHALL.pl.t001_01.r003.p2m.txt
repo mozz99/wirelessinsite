@@ -1,5 +1,4 @@
-# Receiver Set: rota1                                                            
-#   Rx#      X(m)           Y(m)          Z(m)     Distance (m) Path Loss (dB)
+    Rx#      X(m)           Y(m)          Z(m)     Distance (m) Path Loss (dB)
      1  0.1326452E+03 -0.8879996E+02       2.000       0.00         65.54
      2  0.1331452E+03 -0.8880344E+02       2.000       0.50         65.62
      3  0.1336451E+03 -0.8880692E+02       2.000       1.00         67.16
