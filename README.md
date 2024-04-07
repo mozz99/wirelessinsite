@@ -1,4 +1,5 @@
-<head align='center'><i> Wireless Insite </i></head>
+<head> </head>
+<article align='center'><h1><i> Wireless Insite </i></h1>
 
 <b>Arquivos para uso no wi:</b>
 
