@@ -6,15 +6,15 @@
 
 *arquivos .dxf.
 
-*resultados de simulações.
+<b>resultados de simulações:</b>
 <p>->rssi, path loss e informações dos raios.</p>
 <p> </p>
 
-*dados de medições.
+<b>*dados de medições:</b>
 <p>->progressao do artigo e dissertação.</p>
 <p> </p>
 
-*códigos utilizados.
+<b>*códigos utilizados:</b>
 <p>->modelos de propagação fi e ci.</p>
 <p> </p>
 
