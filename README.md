@@ -6,6 +6,10 @@
 
 *arquivos .dxf.
 
+*arquivos principais mozart.rar e kmz dos objetos na pasta aeroporto.
+
+*outras pastas apenas para armazenar arquivos que foram utilizados no inicio da construção do ambiente.
+
 <b>resultados de simulações:</b>
 <p>->rssi, path loss e informações dos raios.</p>
 <p> </p>
@@ -17,7 +21,3 @@
 <b>*códigos utilizados:</b>
 <p>->modelos de propagação fi e ci.</p>
 <p> </p>
-
-*arquivos principais mozart.rar e kmz dos objetos na pasta aeroporto.
-
-*outras pastas apenas para armazenar arquivos que foram utilizados no inicio da construção do ambiente.
