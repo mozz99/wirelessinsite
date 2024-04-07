@@ -1,4 +1,4 @@
-<i> Wireless Insite </i>
+<head><i> Wireless Insite </i></head>
 
 <bold>Arquivos para uso no wi:</bold>
 
