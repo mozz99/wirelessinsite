@@ -1,6 +1,6 @@
 <head><i> Wireless Insite </i></head>
 
-<bold>Arquivos para uso no wi:</bold>
+<b>Arquivos para uso no wi:</b>
 
 *arquivos .dwg.
 
