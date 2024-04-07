@@ -2,22 +2,22 @@
 
 <bold>Arquivos para uso no wi:</bold>
 
-*arquivos .dwg
+*arquivos .dwg.
 
-*arquivos .dxf
+*arquivos .dxf.
 
-*resultados de simulações
-<p>*->rssi, path loss e informações dos raios</p>
+*resultados de simulações.
+<p>->rssi, path loss e informações dos raios.</p>
 <p> </p>
 
-*dados de medições
-<p>*->progressao do artigo e dissertação</p>
+*dados de medições.
+<p>->progressao do artigo e dissertação.</p>
 <p> </p>
 
-*códigos utilizados
-<p>*->modelos de propagação fi e ci</p>
+*códigos utilizados.
+<p>->modelos de propagação fi e ci.</p>
 <p> </p>
 
-*arquivo principal mozart.rar em aeroporto
+*arquivos principais mozart.rar e kmz dos objetos na pasta aeroporto.
 
-*outras pastas apenas para armazenar arquivos que foram utilizados no inicio da construção do ambiente
+*outras pastas apenas para armazenar arquivos que foram utilizados no inicio da construção do ambiente.
