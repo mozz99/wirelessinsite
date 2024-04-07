@@ -7,13 +7,13 @@
 *arquivos .dxf
 
 *resultados de simulações
-*->rssi, path loss e informações dos raios
+<p>*->rssi, path loss e informações dos raios</p>
 
 *dados de medições
-*->progressao do artigo e dissertação
+<p>*->progressao do artigo e dissertação</p>
 
 *códigos utilizados
-*->modelos de propagação fi e ci
+<p>*->modelos de propagação fi e ci</p>
 
 *arquivo principal mozart.rar em aeroporto
 
