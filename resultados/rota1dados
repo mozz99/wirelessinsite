@@ -1,5 +1,4 @@
-# Receiver Set: rotateste1                                                       
-#   Rx#      X(m)           Y(m)          Z(m)     Distance (m) Path Loss (dB)
+    Rx#      X(m)           Y(m)           Z(m)     Distance(m)  Path_Loss(dB)
      1  0.5500000E+01 -0.2824705E-06       2.000       0.00         74.38
      2  0.6999927E+01 -0.1484551E-01       2.000       1.50         72.51
      3  0.8499853E+01 -0.2969075E-01       2.000       3.00         68.82
