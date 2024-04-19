@@ -1,4 +1,4 @@
-Distance(m) Path_loss(dB)
+Distance(m) Path_Loss(dB)
 18.0991		  81.9498
 18.6912		  81.1168
 19.2833		  80.8620
