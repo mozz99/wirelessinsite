@@ -1,5 +1,4 @@
-# Receiver Set: vert novarota1                                                   
-#   Rx#      X(m)           Y(m)          Z(m)     Distance (m) Path Loss (dB)
+    Rx#      X(m)           Y(m)           Z(m)     Distance(m)  Path_Loss(dB)
      1  0.1366424E+03 -0.8908294E+02       1.780       0.00         68.90
      2  0.1372024E+03 -0.8907907E+02       1.780       0.56         75.09
      3  0.1377624E+03 -0.8907520E+02       1.780       1.12         75.70
