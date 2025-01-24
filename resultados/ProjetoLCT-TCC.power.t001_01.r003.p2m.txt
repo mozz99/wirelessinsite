@@ -1,5 +1,5 @@
 # Receiver Set: route rx                                                         
-#   Rx#      X(m)           Y(m)          Z(m)     Distance (m) Power (dBm)  Phase (Deg.)
+#   Rx#      X(m)           Y(m)           Z(m)     Distance (m) Power (dBm)  Phase (Deg.)
      1  0.5771054E+02 -0.3949193E-01       1.480       0.00        -23.77        162.61
      2  0.5671054E+02 -0.3949193E-01       1.480       1.00        -34.60       -132.19
      3  0.5571054E+02 -0.3949193E-01       1.480       2.00        -31.06         44.57
